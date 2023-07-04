@@ -1,0 +1,71 @@
+#me{
+    border-radius: 5%;
+}
+.title{
+    background-image: url("./background.jpg");
+}
+.font{
+    font-family: 'Arvo', serif;
+    color: #1D267D;
+}   
+.container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.presentation{
+    background-image: linear-gradient(#34b1eb, rgb(223, 139, 194));
+}
+.pres{
+    font-size: 30px;
+    color: rgb(3, 10, 17);
+}
+#who{
+    font-size: 50px;
+}
+hr{
+   color:white;
+   border-style:dotted 10px;
+}
+
+#skills h1{
+    font-size: 30px;
+    font-weight:700;
+}
+#skills{
+    background-color:rgb(223, 139, 194);
+    font-family: 'Arvo', serif;
+}
+#skills p{
+    font-size: 24px;
+}
+
+
+svg{
+    margin: 10px;
+    fill:#fff;
+}
+
+.feature-icon{
+    border-radius: 15%;
+    background-color: #000;
+}
+
+.web{
+    text-decoration:rgb(246, 174, 237) 6px underline;
+}
+
+.contact{
+    background-image: linear-gradient(rgb(223, 139, 194), #34b1eb);
+    font-family: 'Arvo', serif;
+    font-size: 35px
+}
+.contact p{
+    font-size: 27px;
+    text-align: center;
+    padding: 15px;
+}
+.footer{
+    background-color: #34b1eb;
+    font-size: 40px;
+    font-family:  'Arvo', serif;
+}
